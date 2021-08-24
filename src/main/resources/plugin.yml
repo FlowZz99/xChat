@@ -1,0 +1,6 @@
+name: xChat
+version: @version@
+main: it.flowzz.xchat.ChatPlugin
+api-version: 1.17
+depend: [ xSync ]
+authors: [ _FlowZz_ ]
